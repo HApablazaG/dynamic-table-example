@@ -1,7 +1,14 @@
 {
   "name": "dynamic-table-example",
   "version": "0.1.0",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HApablazaG/dynamic-table-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HApablazaG/dynamic-table-example/issues"
+  },
+  "homepage": "https://github.com/HApablazaG/dynamic-table-example#readme",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
